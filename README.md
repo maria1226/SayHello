@@ -1,4 +1,4 @@
-﻿# This repo contain - How to use abstract classes in C#
+# This repo contains an example of how to use abstract classes in C#
 
 ## Prerequisites
 - .NET
